@@ -1,0 +1,35 @@
+Sorszám;Tanuló_neve;Tanuló_email
+1;Mecséri Barnabás;mecseri.barnabas@students.jedlik.eu
+2;Nagy Bence;nagy.bence1@students.jedlik.eu
+3;Vida Bence;vida.bence@students.jedlik.eu
+4;Szalay Bence István;szalay.bence.istvan@students.jedlik.eu
+5;Buda Bálint;buda.balint@students.jedlik.eu
+6;Csankó Dominik;csanko.dominik@students.jedlik.eu
+7;Szabó Dominik Zalán;szabo.dominik.zalan@students.jedlik.eu
+8;Petz Dániel;petz.daniel@students.jedlik.eu
+9;Csehi Dániel Tamás;csehi.daniel.tamas@students.jedlik.eu
+10;Németh Dániel Zsolt;nemeth.daniel.zsolt@students.jedlik.eu
+11;Gocsik Dávid;gocsik.david@students.jedlik.eu
+12;Valdinger Dávid;valdinger.david@students.jedlik.eu
+13;Huszár Gergely Ákos;huszar.gergely.akos@students.jedlik.eu
+14;Nyéki Gergő;nyeki.gergo@students.jedlik.eu
+15;Konyha Géza László;konyha.geza.laszlo@students.jedlik.eu
+16;Sándor Hunor;sandor.hunor@students.jedlik.eu
+17;Szuprics Jázmin;szuprics.jazmin@students.jedlik.eu
+18;Boksay Levente;boksay.levente@students.jedlik.eu
+19;Szitás László;szitas.laszlo@students.jedlik.eu
+20;Idesz Marcell;idesz.marcell@students.jedlik.eu
+21;Csizmazia Milán;csizmazia.milan@students.jedlik.eu
+22;Csizmadia Márk;csizmadia.mark@students.jedlik.eu
+23;Figder Márk;figder.mark@students.jedlik.eu
+24;Fazekas Mátyás;fazekas.matyas@students.jedlik.eu
+25;Hegymegi Máté;hegymegi.mate@students.jedlik.eu
+26;Lepár Máté;lepar.mate@students.jedlik.eu
+27;Győr Norbert;gyor.norbert@students.jedlik.eu
+28;Schmidt Nándor;schmidt.nandor@students.jedlik.eu
+29;Babos Pál;babos.pal@students.jedlik.eu
+30;Pető Zsolt;peto.zsolt@students.jedlik.eu
+31;Szabó Zétény;szabo.zeteny2@students.jedlik.eu
+32;Jung Ádám;jung.adam@students.jedlik.eu
+33;Mészáros Ákos;meszaros.akos@students.jedlik.eu
+34;Glázer Ármin Dominik;glazer.armin.dominik@students.jedlik.eu
