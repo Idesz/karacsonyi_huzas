@@ -1,8 +1,8 @@
-from eredmény import húzó, húzott, Tanuló_email
 import smtplib
 import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+from megoldás import megoldas
 
 
 SMTP_SERVER = "smtp.gmail.com"
@@ -32,8 +32,12 @@ def send_email(recipient_email, subject, body):
 
 
 if __name__ == "__main__":
-    recipient = Tanuló_email
-    subject = "Karácsonyi húzás"
-    body = f"Szia {húzó}!\nA karácsonyi húzás eredménye: Te {húzott} húztad!\nKellemes ünnepeket!"
-    send_email(recipient, subject, body)
+    m = megoldas()
 
+    parok = m.vegrehajtas_huzas()
+
+    for huzo, huzott in parok:
+        recipient = huzo.Tanuló_email
+        subject = "Karácsonyi húzás"
+        body = f"Szia {huzo.Tanuló_neve}!\nA karácsonyi húzás eredménye: Ő {huzott.Tanuló_neve} húztad!\nKellemes ünnepeket!"
+        send_email(recipient, subject, body)

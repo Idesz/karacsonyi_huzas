@@ -23,10 +23,4 @@ class eredmeny:
         Ssz, Tn, Te = adatsor.split(";")
         self._Tanuló_neve = Tn
         self._sorszám = int(Ssz)
-        self._Tanuló_email = Te
-
-
-# Module-level variables for import (will be set at runtime)
-húzó = None
-húzott = None
-Tanuló_email = None
+        self._Tanuló_email = Te.strip()
